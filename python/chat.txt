@@ -1,0 +1,8 @@
+
+<          Chat         >
+--------------------------
+
+User 1 has joined the chat!
+User 1: 
+User 1: 
+User 1: 
